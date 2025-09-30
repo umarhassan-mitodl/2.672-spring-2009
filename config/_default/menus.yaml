@@ -1,0 +1,19 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 95e466fb-44ad-bc86-b56d-d416f32e1dca
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: fd614745-fc1f-6cb1-a422-ffc6befbbdd1
+  name: Labs
+  pageRef: /pages/labs/
+  weight: 20
+- identifier: 713b619d-ad80-8a4a-69c3-88a205f93170
+  name: Tools
+  pageRef: /pages/tools
+  weight: 30
+- identifier: 0efba94d-64b2-cbfb-4346-0684ec064a4d
+  name: Reports
+  pageRef: /pages/reports
+  weight: 40

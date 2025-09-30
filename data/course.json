@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ]
+  ],
+  "legacy_uid": "e55cfac9-1950-f35a-d5c0-80cdaa36501d",
+  "instructors": {
+    "content": [
+      "fac42d0c-2145-4538-e20b-34a4bff20317",
+      "789ad34d-05e8-bd9e-f05d-8e03380e710d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "50d9834b-ef60-6017-9d6a-b94dfe808f28",
+    "website": "2-672-project-laboratory-spring-2009"
+  },
+  "course_title": "Project Laboratory",
+  "hide_download": true,
+  "course_description": "This is an engineering laboratory subject for mechanical engineering juniors and seniors. Major emphasis is on interplay between analytical and experimental methods in solution of research and development problems. Communication (written and oral) of results is also a strong component of the course. Groups of two or three students work together on three projects during the term.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.672",
+  "course_image_thumbnail": {
+    "content": "98eed199-7bb6-2079-1526-0ff41a7524d9",
+    "website": "2-672-project-laboratory-spring-2009"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Image Gallery"
+  ],
+  "site_uid": "31562537-7862-4cc6-af1e-8a77e3f87bd3",
+  "site_short_id": "2.672-spring-2009",
+  "site_url_path": "courses/2-672-project-laboratory-spring-2009",
+  "title": "Course Metadata"
+}
