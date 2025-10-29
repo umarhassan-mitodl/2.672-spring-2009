@@ -4,8 +4,6 @@ description: Lab experiment on transfer line dynamics.
 file: /courses/2-672-project-laboratory-spring-2009/a3aa1b428731e40746299d6db33b369b_trans_line.pdf
 file_size: 325443
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

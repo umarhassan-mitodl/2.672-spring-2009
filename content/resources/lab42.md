@@ -5,8 +5,6 @@ description: Samples to be irradiated would be packaged in a cylinder like this.
 file: /courses/2-672-project-laboratory-spring-2009/f1bb326446be69d72c495fbd53f7e044_lab42.jpg
 file_size: 2326
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

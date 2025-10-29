@@ -4,8 +4,6 @@ description: Hot plate with silicon wafer lowered to heating position.
 file: /courses/2-672-project-laboratory-spring-2009/007de46f835b1a7645e43710043390c1_lab1-3.jpg
 file_size: 74576
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Hot plate with silicon wafer lowered to heating position.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'

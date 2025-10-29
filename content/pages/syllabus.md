@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides information on the purpose of the course,
   meeting times, rules, written and oral reports, grading policy, and the schedule
   of lectures, labs, and key dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

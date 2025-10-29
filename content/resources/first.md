@@ -4,8 +4,6 @@ description: Page layout diagram for the cover page for a written report.
 file: /courses/2-672-project-laboratory-spring-2009/047e4ee77f43a66d47ece3343bd18a41_first.pdf
 file_size: 70582
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

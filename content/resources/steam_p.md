@@ -5,8 +5,6 @@ description: Supporting MATLAB file for the lab experiments of the course. Satur
 file: /courses/2-672-project-laboratory-spring-2009/51da944b98500912255e0f7c80f4dfb0_steam_p.m
 file_size: 8758
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

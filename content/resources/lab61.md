@@ -5,8 +5,6 @@ description: 'Lab 6 apparatus: bucket for ice water to adjust pipe temperature (
 file: /courses/2-672-project-laboratory-spring-2009/5ff12309e3b3639a1d5125217b96b956_lab61.jpg
 file_size: 2797
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

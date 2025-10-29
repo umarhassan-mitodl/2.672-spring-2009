@@ -4,8 +4,6 @@ description: Page layout diagram of a text page for a written report.
 file: /courses/2-672-project-laboratory-spring-2009/68b35e1f2600d50d7ad9115d764b2b08_text.pdf
 file_size: 70155
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

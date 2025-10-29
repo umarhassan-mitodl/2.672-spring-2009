@@ -5,8 +5,6 @@ description: 'Each 2.672 experiment is installed on its own bench. Lab #6 is fro
 file: /courses/2-672-project-laboratory-spring-2009/a01e286e1b34518ad3435d66c745f3c2_fulllab.jpg
 file_size: 3267
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

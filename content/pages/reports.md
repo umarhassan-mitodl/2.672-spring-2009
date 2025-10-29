@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains written reports and their example papers and oral
   reports and their files.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Reports
@@ -19,7 +17,7 @@ Written Reports
 
 Guide to Lab Report Writing ({{% resource_link cd88e040-e85c-19bb-3106-a1088a718492 "PDF" %}})
 
-Report Templates: Word ({{% resource_link 2054ad98-fc7b-5a04-5b8e-ba045fafab8f "DOC" %}}), [LaTeX](http://iel.ucdavis.edu/code/ASME/conf-1.5.html)
+Report Templates: Word ({{% resource_link 2054ad98-fc7b-5a04-5b8e-ba045fafab8f "DOC" %}}), {{% resource_link "2d64490f-7081-4176-a420-a5d3fa5cee78" "LaTeX" %}}
 
 Page Layout Diagrams: First Page ({{% resource_link 047e4ee7-7f43-a66d-47ec-e3343bd18a41 "PDF" %}}), Text Page ({{% resource_link 68b35e1f-2600-d50d-7ad9-115d764b2b08 "PDF" %}})
 
